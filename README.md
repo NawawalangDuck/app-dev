@@ -42,6 +42,3 @@ _______________
 > I play video games like Red Dead Redemption 2, Rainbow Six Siege, and Left 4 Dead 2
 3. Editing
 > Editing memes and videos using Adobe Premiere Pro and Adobe After Effects is one of my hobbies.
->
-> booom
-
