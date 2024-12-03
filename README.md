@@ -3,7 +3,7 @@ My first repository
 # Who Am I?
 Hi! I am an IT student who plays video games and enjoys learning how to code
 _______________
-My Hobbies
+### My Hobbies
 1. Watching movies or series
 > I love watching action
 2. Playing video games
